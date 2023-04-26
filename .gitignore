@@ -1,3 +1,9 @@
+# Custom ignore
+**/*__rough__*.*
+**/__rough__/
+.vscode/
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

@@ -1,0 +1,9 @@
+scikit-learn
+pandas
+tabulate
+dataframe_image
+pyarrow
+fastparquet
+matplotlib
+seaborn
+flask
